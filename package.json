@@ -1,0 +1,20 @@
+{
+  "name": "questionnaire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^2.8.0",
+    "eslint-config-airbnb": "^7.0.0",
+    "eslint-plugin-react": "^5.0.1",
+    "node-rest-client": "^1.8.0",
+    "twilio": "^2.9.1",
+    "twilio-server": "^0.1.0"
+  }
+}
